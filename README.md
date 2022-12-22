@@ -1,0 +1,1 @@
+hkm-chat is a chatting app that enables users to communicate with each other in real time through instant messaging. the app provides a convenient and efficient way for users to connect with each other, whether for personal or professional purposes.
